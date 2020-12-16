@@ -15,7 +15,8 @@ java ChatClient <host> <port>
 
 [PT]
 
-#Estados e transições
+# Estados e transições
+
 <table style="border: 1px solid black;" id="yui_3_17_2_1_1608142609621_55">
    
    <thead>
