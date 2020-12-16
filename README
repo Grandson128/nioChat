@@ -1,0 +1,10 @@
+Start Chat server with :
+java ChatServer <port>
+  Ex:
+    java ChatServer 8000
+
+
+Start Client with : 
+java ChatClient <host> <port>
+  Ex:
+    java ChatClient localhost 8000
