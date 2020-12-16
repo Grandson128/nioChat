@@ -13,6 +13,8 @@ java ChatClient <host> <port>
   Ex:
     java ChatClient localhost 8000
 
+
+
 [PT]
 
 # Estados e transições
@@ -143,3 +145,6 @@ java ChatClient <host> <port>
       </tr>
    </tbody>
 </table>
+
+References: 
+http://tutorials.jenkov.com/java-nio/index.html
